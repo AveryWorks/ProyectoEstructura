@@ -5,13 +5,10 @@
 
 package com.avery.edproyect;
 
-/**
- *
- * @author DerekMSI
- */
 public class EDproyect {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        POLO EL QUE  LO LEAAAAAAAAAAAAAAAA (MÁS ESE DERECK) 
     }
 }
